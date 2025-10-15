@@ -1,0 +1,92 @@
+{
+    "img-laptop-1.avif": [
+        "windows",
+        "laptop",
+        "white",
+        "hp",
+        "personal computer",
+        "win10"
+    ],
+    "img-laptop-1.jpg": [
+        "asus",
+        "black",
+        "windows11",
+        "laptop",
+        "personal computer",
+        "notebook"
+    ],
+    "img-laptop-3.avif": [
+        "laptop",
+        "white",
+        "personal computer"
+    ],
+    "img-moto-1.jpg": [
+        "moto",
+        "green",
+        "1000cc",
+        "sports bike"
+    ],
+    "img-moto-2.jpg": [
+        "moto",
+        "red",
+        "suzuki",
+        "800cc",
+        "sports bike"
+    ],
+    "img-moto-3.jpg": [
+        "moto",
+        "blue",
+        "r1",
+        "1000cc",
+        "sports bike"
+    ],
+    "img-paysage-1.jpg": [
+        "landscape",
+        "moutnains",
+        "forest",
+        "trees",
+        "grass",
+        "green"
+    ],
+    "img-personnes-1.webp": [
+        "people",
+        "elderly",
+        "glasses",
+        "humans",
+        "white hair",
+        "smiling"
+    ],
+    "img_paysage-2.jpg": [
+        "tree",
+        "river",
+        "lake",
+        "mountains",
+        "orange",
+        "orange leaves"
+    ],
+    "img_paysage-3.jpg": [
+        "green",
+        "beach",
+        "sand",
+        "water",
+        "palm",
+        "palm trees",
+        "sky",
+        "clouds"
+    ],
+    "img_paysage-4.avif": [
+        "snow",
+        "river",
+        "lake",
+        "mountains",
+        "sky",
+        "clouds"
+    ],
+    "img_personnes-2.jpg": [
+        "people",
+        "humans",
+        "gathering",
+        "youth",
+        "young"
+    ]
+}
