@@ -31,7 +31,15 @@ def get_appropriate_images(index,parsed_query):
 
 
 
+def search_images(query):
+    """Search for images based on query and return results"""
+    index = load_index()
+    parsed = parse_query(query)
+    imgs = get_appropriate_images(index, parsed)
+    return list(imgs)
+
 def main():
+    """Original main function for command line usage"""
     index = load_index()
     while True:
         query = input('Enter your query : ')
@@ -39,9 +47,6 @@ def main():
         print(parsed)
         imgs = get_appropriate_images(index,parsed)
         print(f'results : {imgs} ')
-
-
-
 
 
 if __name__ == "__main__":
